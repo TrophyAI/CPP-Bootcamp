@@ -1,8 +1,9 @@
 #include <iostream>
+using namespace std;
 
-int main (){
-  int x = 0;
-  std::cin >> x;
- 
-return 0;
+int main() {
+	int x = 0;
+	cin >> x;
+	cout << x << endl;
+	return 0;
 }
